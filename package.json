@@ -1,0 +1,13 @@
+{
+  "name": "singlestore-code-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "luxon": "^1.25.0",
+    "node-fetch": "^2.6.1"
+  }
+}
