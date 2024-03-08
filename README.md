@@ -1,6 +1,8 @@
 SingleStore Code Challenge for January
 ======================================
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 In this code challenge we'll work with geographic data. SingleStore natively supports WKT-formatted polygon shapes and points. We'll build a stored procedure to identify planes flying over the desired country.
 
 
